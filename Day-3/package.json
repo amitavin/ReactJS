@@ -1,0 +1,31 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is ReactJS learning by Amit Sharma",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitavin/ReactJS.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "learning"
+  ],
+  "author": "Amit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitavin/ReactJS/issues"
+  },
+  "homepage": "https://github.com/amitavin/ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
