@@ -10,7 +10,9 @@
 - Set up basic HTML boilerplate
 - Create a container element for React to render into
 
-#### 2. Add ReactJS CDN References
+#### 2. Add ReactJS CDN References from [React CDN](https://legacy.reactjs.org/docs/cdn-links.html)
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
 Include the following script tags in your HTML:
 - **react.development.js**: Core ReactJS library containing fundamental React functionality
 - **react-dom.development.js**: ReactJS DOM library required for DOM operations and rendering
