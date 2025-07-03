@@ -1,0 +1,32 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "ReactJS leanring day-5",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitavin/ReactJS.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "fornt-end",
+    "UI",
+    "fullstack",
+    "development"
+  ],
+  "author": "Amit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitavin/ReactJS/issues"
+  },
+  "homepage": "https://github.com/amitavin/ReactJS#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
