@@ -1,5 +1,5 @@
 import RestaurantCard from "./RestaurantCard";
-import resList  from "../utilis/mockData";
+import resList  from "../utils/mockData";
 
 // Body component that contains the search bar and restaurant cards
 // It renders a search input and a button, and maps over the resList to display each restaurant using the RestaurantCard component.
